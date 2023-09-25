@@ -1,0 +1,14 @@
+C:\Users\viggo\source\repos\Lucky Skyscraper\obj\Debug\net7.0\Lucky Skyscraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viggo\source\repos\Lucky Skyscraper\obj\Debug\net7.0\Lucky Skyscraper.AssemblyInfoInputs.cache
+C:\Users\viggo\source\repos\Lucky Skyscraper\obj\Debug\net7.0\Lucky Skyscraper.AssemblyInfo.cs
+C:\Users\viggo\source\repos\Lucky Skyscraper\obj\Debug\net7.0\Lucky Skyscraper.csproj.CoreCompileInputs.cache
+C:\Users\viggo\source\repos\Lucky Skyscraper\bin\Debug\net7.0\Lucky Skyscraper.exe
+C:\Users\viggo\source\repos\Lucky Skyscraper\bin\Debug\net7.0\Lucky Skyscraper.deps.json
+C:\Users\viggo\source\repos\Lucky Skyscraper\bin\Debug\net7.0\Lucky Skyscraper.runtimeconfig.json
+C:\Users\viggo\source\repos\Lucky Skyscraper\bin\Debug\net7.0\Lucky Skyscraper.dll
+C:\Users\viggo\source\repos\Lucky Skyscraper\bin\Debug\net7.0\Lucky Skyscraper.pdb
+C:\Users\viggo\source\repos\Lucky Skyscraper\obj\Debug\net7.0\Lucky Skyscraper.dll
+C:\Users\viggo\source\repos\Lucky Skyscraper\obj\Debug\net7.0\refint\Lucky Skyscraper.dll
+C:\Users\viggo\source\repos\Lucky Skyscraper\obj\Debug\net7.0\Lucky Skyscraper.pdb
+C:\Users\viggo\source\repos\Lucky Skyscraper\obj\Debug\net7.0\Lucky Skyscraper.genruntimeconfig.cache
+C:\Users\viggo\source\repos\Lucky Skyscraper\obj\Debug\net7.0\ref\Lucky Skyscraper.dll
